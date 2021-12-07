@@ -1,0 +1,25 @@
+{
+  "name": "product-management",
+  "version": "1.0.0",
+  "description": "Repositório referente ao desafio proposto pelo Didatikos, criando uma api para realizar o gerenciamento de um produto, neste caso o produto será Livros.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phRodovalho/product-management.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phRodovalho/product-management/issues"
+  },
+  "homepage": "https://github.com/phRodovalho/product-management#readme",
+  "dependencies": {
+    "next": "^12.0.7",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
